@@ -1,3 +1,6 @@
+# See it in action
+# https://www.youtube.com/watch?v=D7LCZXtDqbs
+
 import pygame
 from pygame import gfxdraw
 import math
